@@ -1,0 +1,15 @@
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/bin/Debug/net6.0/AppResaLivre
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/bin/Debug/net6.0/AppResaLivre.deps.json
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/bin/Debug/net6.0/AppResaLivre.runtimeconfig.json
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/bin/Debug/net6.0/AppResaLivre.dll
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/bin/Debug/net6.0/ref/AppResaLivre.dll
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/bin/Debug/net6.0/AppResaLivre.pdb
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/obj/Debug/net6.0/AppResaLivre.csproj.AssemblyReference.cache
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/obj/Debug/net6.0/AppResaLivre.GeneratedMSBuildEditorConfig.editorconfig
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/obj/Debug/net6.0/AppResaLivre.AssemblyInfoInputs.cache
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/obj/Debug/net6.0/AppResaLivre.AssemblyInfo.cs
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/obj/Debug/net6.0/AppResaLivre.csproj.CoreCompileInputs.cache
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/obj/Debug/net6.0/AppResaLivre.dll
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/obj/Debug/net6.0/ref/AppResaLivre.dll
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/obj/Debug/net6.0/AppResaLivre.pdb
+/home/vincek2/Documents/Simplon/BriefPooConceptionSystemeReservationLivre/AppResaLivre/AppResaLivre/obj/Debug/net6.0/AppResaLivre.genruntimeconfig.cache
